@@ -13,7 +13,7 @@ public class Library {
 
 	private static String url = "jdbc:mysql://localhost:3306/publiclibrary";
 	private static String user = "root";
-	private static String pass = "wonyunnaA9881!";
+	private static String pass = "";
 
 	// add information for library
 	public static void addLibrary() throws Exception {
