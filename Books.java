@@ -257,10 +257,7 @@ public class Books
 			pre.close();
 			con.close();
 		}
-	}
-	
-	
-	
+	}	
 }
 
 	
